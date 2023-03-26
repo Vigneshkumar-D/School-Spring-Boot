@@ -1,4 +1,4 @@
-# Students
+# School
 Given five files,
 
 - `StudentController.java`
